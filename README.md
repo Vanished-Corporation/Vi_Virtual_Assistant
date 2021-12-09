@@ -1,2 +1,4 @@
 # Vi_Virtual_Assistant
-Virtual Assistant Project for Noobs
+Virtual Assistant Project
+
+UNDER DEVELOPMENT
